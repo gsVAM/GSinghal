@@ -1,0 +1,239 @@
+---
+layout: base
+---
+
+
+<img class="full-width " src="assets/img/header2.png" alt="" />
+<head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+</head>
+
+<h1 id="textbox">
+  <p class="alignleft">About Me</p>
+  <p class="alignright"><i class="fas fa-user-circle"></i></p> </h1>
+<div style="clear: both;"></div>
+
+I am a humanitarian and data scientist, working at the intersection of computer science, economics, and public policy. As a data scientist I uncover signals hidden in complex datasets using machine learning, advanced statistics, mathematical modeling, and rich visualization. As a humanitarian I seek to connect these discoveries to applications that create meaningful change in people's lives. Through a deeper, richer understanding of human society and history, I seek to give data 'a voice' - letting it speak for *itself* - enabling human action to advance social equality, economic opportunity, and environmental sustainability.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{font-size:14px;padding:2px 13px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-size:14px;font-weight:normal;padding:2px 13px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-yqpd{;color:#343434;border-color:#ffffff;text-align:left;line-height:1}
+.tg .tg-szm5{font-weight:bold;text-decoration:underline;font-size:16px;color:#343434;border-color:#ffffff;text-align:center;ine-height:0}
+</style>
+<table class="tg" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <th class="tg-szm5">Professional Specializations<br></th>
+    <th class="tg-szm5">Other Skills</th>
+  </tr>
+  <tr>
+    <td class="tg-yqpd">&bull;&nbsp;<strong>Programming:</strong> R, Python, MATLAB</td>
+    <td class="tg-yqpd">&bull;&nbsp;Public Speaking</td>
+  </tr>
+  <tr>
+    <td class="tg-yqpd">&bull;&nbsp;<strong>Database:</strong> SQL, MongoDB, Neo4J </td>
+    <td class="tg-yqpd">&bull;&nbsp;Macro & Micro-economics</td>
+  </tr>
+  <tr>
+    <td class="tg-yqpd">&bull;&nbsp;<strong>Machine Learning:</strong> Neural Networks,<br>&nbsp;&nbsp;&nbsp;Gaussian Processes, Online</td>
+    <td class="tg-yqpd">&bull;&nbsp;Food Security/Conflict Analysis</td>
+  </tr>
+  <tr>
+    <td class="tg-yqpd">&bull;&nbsp;<strong>Statistics:</strong> Bayesian, Geospatial, Econometrics,<br>&nbsp;&nbsp;&nbsp;Demographic/Survey </td>
+    <td class="tg-yqpd">&bull;&nbsp;Solidity/Blockchain programming</td>
+  </tr>
+    <tr>
+    <td class="tg-yqpd">&bull;&nbsp;<strong>Data-Collection Methods:</strong> Survey Design, Design of<br>&nbsp;&nbsp;&nbsp;Experiments, Remote Sensing, Institutional Data </td>
+    <td class="tg-yqpd">&bull;&nbsp;Film-making/Video-editing</td>
+  </tr>
+    </tr>
+    <tr>
+    <td class="tg-yqpd">&bull;&nbsp;<strong>Visualization:</strong> QGIS, Tableau  </td>
+    <td class="tg-yqpd">&bull;&nbsp;Web programming</td>
+  </tr>
+</table>
+---
+
+
+<h1 id="textbox">
+  <p class="alignleft">Professional Experience</p>
+  <p class="alignright"><i class="fas fa-briefcase"></i></p> </h1>
+<div style="clear: both;"></div>
+
+### **Lead Data Scientist**
+<style type="text/css">
+
+.tg  {border-collapse:collapse;border-spacing:0;table-layout: fixed}
+.tg td{padding:9px 7px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{padding:9px 7px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-yqpd{border-color:#ffffff;text-align:left,width:66%;}
+.tg .tg-yqpc{white-space: nowrap;border-color:#ffffff;text-align:left;vertical-align:top;width:34%;}
+</style>
+<table class="tg">
+  <tr>
+    <td class="tg-yqpc"><p><span style="font-size: 13pt;"><a href="http://www.wfp.org" style="text-decoration:none"><span style="color: #1E90FF;">UN World Food Programme</span></a></span><br>
+<span style="font-size: 11pt; color: #1E90FF;">Policy & Program Division (VAM) </span></span></p>
+<p><span style="font-size: 10pt; color: #333333;"><i>Rome, Italy <br> Sep 2014 - Sep 2018</i></span></span>
+</p></td>
+    <td class="tg-yqpd">Founded a team that even today is transforming the way WFP gathers, 
+measures, and disseminates information on the food security of nations during times of war, climate shocks, and other extreme events. We devised ways to provide near real-time information on food prices, 
+food security, and scarcity of essentials using a combination of mobile-based surveys, call-detail records, satellite imagery, and crowd-sourcing. It was and continues to be an immense challenge, comprising original research in social statistics, applied research in a multitude of mathematical modeling domains (econometrics, simulatation, machine learning, etc), while building practical tools and infrastructure aimed at empowering individuals in the field.</td>
+  </tr>
+</table>
+
+### **Junior Researcher**
+<table class="tg">
+  <tr>
+    <td class="tg-yqpc"><p><span style="font-size: 13pt;"><a href="https://wdi.umich.edu/" style="text-decoration:none"><span style="color: #1E90FF;">William Davidson Institute</span></a></span><br>
+<span style="font-size: 11pt; color: #1E90FF;">Public Health Supply Chains </span></span></p>
+<p><span style="font-size: 10pt; color: #333333;"><i>Ann Arbor, Michigan, USA <br> July 2013 - Aug 2014</i></span></span>
+</p></td>
+    <td class="tg-yqpd">Researched and modeled vaccine and essential medicine supply chains for rural public health clinics under a grant from the Bill & Melinda Gates Foundation. I delivered two projects. The first, an impact evaluation study on mobile-phone-based inventory systems, required field data collection in the tribal areas of Arunachal Pradesh, India. The second project comprised a model and recommendation system for minimizing stockout at public health clinics in Tanzania via trans-shipment of essential medicines between neighboring clinics.</td>
+  </tr>
+</table>
+
+### **Analytics Consultant & Developer**
+<table class="tg">
+  <tr>
+    <td class="tg-yqpc"><p><span style="font-size: 13pt;"><a href="https://www.accenture.com/be-en/accenture-technology-labs-index/" style="text-decoration:none"><span style="color: #1E90FF;">Accenture</span></a></span><br>
+<span style="font-size: 11pt; color: #1E90FF;">Technology Labs</span></span></p>
+<p><span style="font-size: 10pt; color: #333333;"><i>Chicago, Illinois, USA <br> Mar 2010 - June 2011</i></span></span>
+</p></td>
+    <td class="tg-yqpd">Lead developer for a machine-learning based work-queue optimization tool for health payers, that automatically detected, categorized, and prioritized manual claim adjudication rework. This was an industry first, and a novel application within the field of analytics. I also researched active learning and multi-classification SVMs. I co-authored and presented a paper at the International Journal Conference on Neural Networks</td>
+  </tr>
+</table>
+
+### **Analyst**
+<table class="tg">
+  <tr>
+    <td class="tg-yqpc"><p><span style="font-size: 13pt;"><a href="https://www.accenture.com/" style="text-decoration:none"><span style="color: #1E90FF;">Accenture</span></a></span><br>
+<span style="font-size: 11pt; color: #1E90FF;">Health & Public Service</span></span></p>
+<p><span style="font-size: 10pt; color: #333333;"><i>Chicago, Illinois, USA <br> July 2007 - Feb 2010</i></span></span>
+</p></td>
+    <td class="tg-yqpd">Engaged in several projects ranging from IT to strategy. Most notably, I lead statistical analysis for Accenture's 2009 High Performance Metrics Study for Health Payers, collecting and profiling operating and financial performance across 517 different measures for health plans across the country. I was the primary author of the resulting white paper, and presented findings to C-level staff for interested clients.</td>
+  </tr>
+</table>
+---
+
+<h1 id="textbox">
+  <p class="alignleft">Education</p>
+  <p class="alignright"><i class="fas fa-university"></i></p> </h1>
+<div style="clear: both;"></div>
+
+
+<div id="textbox">
+  <p class="alignleft2"><span style="font-size: 13pt;"><a href="https://www.umich.edu/" style="text-decoration:none"><span style="color: #1E90FF;">University of Michigan</span></a></span></p>
+  <p class="alignright"><span style="font-size: 10pt; color: #333333;">Ann Arbor, Michigan, USA</span></p> 
+  <p class="aligncenter"><span style="font-size: 10pt; color: #333333;"><i>July 2011 - Aug 2014</i></span></p>
+  </div>
+<div style="clear: both;"></div>
+
+<table class="tg">
+  <tr>
+    <td class="tg-yqpc"><p><h3><i class="fas fa-graduation-cap"></i>Masters of Economics</h3></p></td>
+    <td class="tg-yqpd">Former Joint PhD Candidate in Information Science and Economics—completed all PhD course requirements</td>
+  </tr>
+    <tr>
+    <td class="tg-yqpc"><p><h3><i class="fas fa-graduation-cap"></i>Masters of Information<br>&nbsp;&nbsp;&nbsp;&nbsp;Science</h3></p></td>
+    <td class="tg-yqpd">STIET Fellow: NSF IGERT fellowship awarded to develop researchers at the intersection of Computer Science and Economics as part of University of Michigan's STIET Lab (Socio-Technical Infrastructure for Electronic Transactions)</td>
+  </tr>
+</table>
+</table>
+
+<div id="textbox">
+  <p class="alignleft2"><span style="font-size: 13pt;"><a href="https://www.purdue.edu/" style="text-decoration:none"><span style="color: #1E90FF;">Purdue University</span></a></span></p>
+  <p class="alignright"><span style="font-size: 10pt; color: #333333;">West Lafayette, Indiana, USA</span></p> 
+  <p class="aligncenter"><span style="font-size: 10pt; color: #333333;"><i>Sep 2002 - May 2007</i></span></p>
+  </div>
+<div style="clear: both;"></div>
+
+<table class="tg">
+    <tr>
+    <td class="tg-yqpc"><p><h3><i class="fas fa-graduation-cap"></i>Bachelors of Mechanical<br>&nbsp;&nbsp;&nbsp;&nbsp;Engineering</h3></p></td>
+    <td class="tg-yqpd">additional minors in electrical engineering, economics, philosophy</td>
+  </tr>
+</table>
+---
+
+<h1 id="textbox">
+  <p class="alignleft">Selected Publications</p>
+  <p class="alignright"><i class="fas fa-book-open"></i></p> </h1>
+<div style="clear: both;"></div>
+
+<table class="tg">
+  <tr>
+    <td class="tg-yqpc"><p><img src="assets/img/gpspatial.jpeg" alt="" height=100 width=125 /></p></td>
+    <td class="tg-yqpd"><p>A novel approach using Gaussian Processes to produce de-biased estimates of food insecurity in Yemen from noisy data sources</p>
+        <p><span style="font-size: 13pt;"><span style="color: #1E90FF;">Now-casting food insecurity in Yemen</span></a></span><br>
+        <span style="font-size: 11pt; color: #333333;">Singhal G, Flaxman S, Gelman A, et al.</span></span><br>
+        <span style="font-size: 10pt; color: #333333;"><i>Lancet, The</i>&nbsp;(under review)</span></span>
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-yqpc"><p><img src="assets/img/mddwDesign.png" alt="" height=100 width=125 /></p></td>
+    <td class="tg-yqpd"><p>Proving the efficacy of mobile-phone based surveys for studying women's diets</p>
+        <p><span style="font-size: 13pt;"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210050" style="text-decoration:none"><span style="color: #1E90FF;">Strengths and limitations of computer assisted telephone interviews (CATI) for nutrition data collection in rural Kenya</span></a></span><br>
+        <span style="font-size: 11pt; color: #333333;">Lamanna C, Hachhethu K, Singhal G, et al.</span></span><br>
+        <span style="font-size: 10pt; color: #333333;"><i>PloS ONE</i>&nbsp;(2019)</span></span>
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-yqpc"><p><img src="assets/img/sofi2017.png" alt="" height=100 width=125 /></p></td>
+    <td class="tg-yqpd"><p>Premiere UN Report on Food Security and Nutrition - showed existence of structural break in trands</p>
+        <p><span style="font-size: 13pt;"><a href="https://www.who.int/nutrition/publications/foodsecurity/state-food-security-nutrition-2017-fullreport-en.pdf" style="text-decoration:none"><span style="color: #1E90FF;">State of Food Security & Nutrition in the World 2017</span></a></span><br>
+        <span style="font-size: 11pt; color: #333333;">FAO, IFAD, UNICEF, WFP and WHO</span></span><br>
+        <span style="font-size: 10pt; color: #333333;"><i>UN Annual Report</i>&nbsp;(2017)</span></span>
+        </p>
+    </td>
+  </tr>
+    <tr>
+    <td class="tg-yqpc"><p><img src="assets/img/mvam.jpg" alt="" height=100 width=125 /></p></td>
+    <td class="tg-yqpd"><p>Best Paper award at Humanitarian Tech Conference, 2016.</p>
+        <p><span style="font-size: 13pt;"><a href=https://www.sciencedirect.com/science/article/pii/S1877705816323128" style="text-decoration:none"><span style="color: #1E90FF;">mVAM: A New Contribution to the Information Ecology of Humanitarian Work</span></a></span><br>
+        <span style="font-size: 11pt; color: #333333;">Mock N, Singhal G, Olander W, et al.</span></span><br>
+        <span style="font-size: 10pt; color: #333333;"><i>Procedia Engineering</i>&nbsp;(2016)</span></span>
+        </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-yqpc"><p><img src="assets/img/multiclass.png" alt="" height=100 width=125 /></p></td>
+    <td class="tg-yqpd"><p>At the time a novel, ultra-fast method for doing multi-classification with SVMs</p>
+        <p><span style="font-size: 13pt;"><a href="https://ieeexplore.ieee.org/document/5178882/" style="text-decoration:none"><span style="color: #1E90FF;">Piecewise Multi-Class Support Vector Machines</span></a></span><br>
+        <span style="font-size: 11pt; color: #333333;">Oladunni T. & Singhal G.</span></span><br>
+        <span style="font-size: 10pt; color: #333333;"><i>IJCNN</i>&nbsp;(2009)</span></span>
+        </p>
+    </td>
+  </tr>
+</table>
+---
+<h2 id="textbox">
+  <p class="alignleft">Connect</p>
+  <p class="alignright"><span style="font-size: 11pt;"><a href="mailto: gs.singhal@gmail.com" style="text-decoration:none"><span style="color: #1E90FF;">gs.singhal@gmail.com<i class="fas fa-envelope"></i></span></a></span></p> 
+</h2>
+<div style="clear: both;"></div>
+
+<div id="textbox">
+  <p class="alignleft2"><a href="https://twitter.com/G_Singhal" class="twitter-follow-button" data-show-count="false">Follow @_gsinghal</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+  <p class="alignright"><span style="font-size: 10pt; color: #333333;"><a href="https://github.com/gsVAM">
+                <img src="assets/img/GitHub-Mark.png" width="30" height="30"></a></span></p> 
+  <p class="aligncenter"><span style="font-size: 10pt; color: #333333;"><a href="https://www.linkedin.com/in/gaurav-singhal-14311229/"> 
+                <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" 
+                width="100" height="20" border="0" alt="View Lorenzo Riches's profile on LinkedIn"></a></span></p>
+  </div>
+<div style="clear: both;"></div>
+
+<footer class="row">
+            <hr>
+            <span>&copy; Gaurav Singhal 2019  
+            </span>
+        </footer>
+
+<div class="begin-examples"></div>
+<div class="end-examples"></div>
+
+
+
